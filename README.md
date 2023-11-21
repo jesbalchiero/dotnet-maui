@@ -1,5 +1,6 @@
 # MAUI
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](http://forthebadge.com)
+
 Projects at the course of .NET MAUI from SPACEDU.
 
 # Topics
@@ -14,6 +15,6 @@ Projects at the course of .NET MAUI from SPACEDU.
 - Styles, states and light/dark mode.
 - Accessibility.
 
-# TODO
+# To Do
 
 - AppLotteryNumbers: Increment on project new features, like anothers games to bet on lottery and connection with api to bet automatically.

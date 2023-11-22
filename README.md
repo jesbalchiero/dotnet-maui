@@ -1,9 +1,8 @@
-# MAUI
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](http://forthebadge.com)
+# Spacedu-course Folder
 
 Projects at the course of .NET MAUI from SPACEDU.
 
-# Topics
+### Topics
 - Dependency Injection.
 - Repository Pattern.
 - Database SQLite + Entity Framework Core + Migrations.
@@ -15,6 +14,6 @@ Projects at the course of .NET MAUI from SPACEDU.
 - Styles, states and light/dark mode.
 - Accessibility.
 
-# To Do
+### To Do
 
 - AppLotteryNumbers: Increment on project new features, like anothers games to bet on lottery and connection with api to bet automatically.
